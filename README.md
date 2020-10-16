@@ -8,7 +8,7 @@ I'm Caleb Welch, Welcome to my Github Profile!  I've recently earned a certifica
 <p align="center">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
     <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E"/> 
-    <img src="https://img.shields.io/badge/csharp%20-%23323330.svg?&style=for-the-badge&logo=csharp&logoColor=green"/> 
+    <img src="https://img.shields.io/badge/c#%20-%23323330.svg?&style=for-the-badge&logo=c#&logoColor=green"/> 
   
 
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
