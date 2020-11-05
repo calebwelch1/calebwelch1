@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Caleb Welch, Welcome to my Github Profile!  I've recently earned a certification in Full Stack Web Development from a coding bootcamp. I'm currently working as a Full Stack intern at Known Point Technologies.  You can find me on [linkedin](https://www.linkedin.com/in/caleb-welch-502851121/) and can view [my portfolio](https://calebwelch1.github.io/Portfolio/).
+I'm Caleb Welch, Welcome to my Github Profile! I love programming and creating beautiful websites and applications. I'm currently working as a Full Stack intern at Known Point Technologies.  You can find me on [linkedin](https://www.linkedin.com/in/caleb-welch-502851121/) and can view [my portfolio](https://calebwelch1.github.io/Portfolio/).
 
 
 ### Languages and Tools:
