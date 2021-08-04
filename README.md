@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Caleb Welch, Welcome to my Github Profile! I love programming and creating beautiful websites and applications. I'm currently working as a Software Engineer at Genetesis.  You can find me on [linkedin](https://www.linkedin.com/in/caleb-welch-502851121/) and can view [my portfolio](https://calebwelch1.github.io/Portfolio/).
+I'm Caleb Welch, Welcome to my Github Profile! I love programming and creating beautiful websites and applications. I'm currently working as a Front End Engineer at Genetesis.  You can find me on [linkedin](https://www.linkedin.com/in/caleb-welch-502851121/) and can view [my portfolio](https://calebwelch1.github.io/Portfolio/).
 
 
 ### Languages and Tools:
