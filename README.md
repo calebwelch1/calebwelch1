@@ -7,11 +7,10 @@ I'm Caleb Welch, Welcome to my Github Profile! I love programming and creating b
 ### Languages and Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/vue%20-%23323330.svg?&style=for-the-badge&logo=vue&logoColor=white"/>
     <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E"/> 
     <img src=" https://img.shields.io/badge/-C%23-green?style=for-the-badge&logo=appveyor"/>
   
-
+  <img src="https://img.shields.io/badge/vue%20-%23323330.svg?&style=for-the-badge&logo=vue&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
