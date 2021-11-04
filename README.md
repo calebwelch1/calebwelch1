@@ -29,8 +29,8 @@ I'm Caleb Welch, Welcome to my Github Profile! I love programming and creating b
 </p>
 
 <p align="center">
-<!--   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=calebwelch1&show_icons=true&theme=midnight-purple" /> -->
-<!--   <img align="top" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebwelch1&theme=midnight-purple&layout=compact" /> -->
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=calebwelch1&show_icons=true&theme=midnight-purple" />
+  <img align="top" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebwelch1&theme=midnight-purple&layout=compact" />
 </p>
 
 
